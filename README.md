@@ -1,2 +1,2 @@
 # anadolulinux
-ANADOLU LINUX Pisi ve Deb olarak projenin iki ayağı mevcuttur.Anadolu Linux Türkiye originli bir ulusal dağıtımdır.
+ANADOLU LINUX bir Pisi LİNUX temasıdır
