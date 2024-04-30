@@ -1,2 +1,2 @@
 # anadolulinux
-ANADOLU LINUX bir Pisi LİNUX temasıdır
+ANADOLU LINUX bir Pisi LİNUX ve debian dağıtımıdır. Çift taban dağıtımdır.
